@@ -1,3 +1,14 @@
+# Cool examples this repo came with:
+1. https://payne.github.io/p5grid/hexdemo/example1/
+1. https://payne.github.io/p5grid/hexdemo/example2/
+1. https://payne.github.io/p5grid/hexdemo/example3/
+1. https://payne.github.io/p5grid/hexdemo/example4/
+1. https://payne.github.io/p5grid/hexdemo/example5/
+
+### Original README below
+
+--------------
+
 # p5grid
 
 ![example1](https://media.giphy.com/media/llPM1NyhcX5Xbd9Xec/giphy.gif)
